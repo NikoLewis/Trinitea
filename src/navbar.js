@@ -5,7 +5,7 @@ var Navbar = React.createClass({
   render: function() {
     return (
       <div>
-       
+       <Link to='/'>test link </Link>
       </div>
     )
   }
